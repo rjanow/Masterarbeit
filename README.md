@@ -9,6 +9,19 @@ One machine learning model suited to this problem is LSTMs (long short-term memo
 
 Metric used for predictions is the UV-index. This index indicates the erythema weighted UV-radiation and is a tool to inform the public about the intensity of UV-radiation.
 
+### Methods Used
+
+- Machine Learning
+- Data Visualization
+- Predictive Modeling
+
+### Technologies
+
+- Python
+- Keras
+- Pandas, Jupyter
+- Excel
+
 ## Description:
 
 
