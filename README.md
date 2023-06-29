@@ -1,5 +1,5 @@
 # Short-term UV-Index Forecasting unsing LSTMs
-## Masterarbeit
+## Master thesis
 In this work, a neural network is trained to perform short-term prediction of UV-radiation (UV-Index).
 
 Can future UV-index be predicted using current and past data?
@@ -22,7 +22,7 @@ Metric used for predictions was the UV-index. This index indicates the erythema 
 
 ### Contacts: https://github.com/rjanow
 
-### Repository für den Programmieranteil meiner Masterarbeit
+### Repository for the programming part of my master thesis
 
 
 
