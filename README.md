@@ -1,2 +1,2 @@
 # Masterarbeit
-Repo für den Programmierteil meiner Masterarbeit
+Repository für den Programmieranteil meiner Masterarbeit
