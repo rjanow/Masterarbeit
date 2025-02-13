@@ -1,4 +1,4 @@
-# Short-term UV-Index Forecasting unsing LSTMs
+# Short-term UV-Index Forecasting using LSTMs
 ## Master thesis
 In this work, a neural network is trained to perform short-term prediction of UV-radiation (UV-Index).
 
